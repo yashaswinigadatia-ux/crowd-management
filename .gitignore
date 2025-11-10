@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large model weights or video files (optional)
+*.pt
+*.mp4
+
+# Ignore system files
+.DS_Store
+Thumbs.db
